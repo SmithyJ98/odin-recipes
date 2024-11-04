@@ -46,3 +46,34 @@ a:hover {
     text-decoration:none; 
     cursor:pointer;  
 }
+
+img {
+    border:5px solid black;
+    display: block;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 300px;
+    width: auto;
+    float: right;
+}
+
+p {
+    font-size: 20px;
+}
+
+H2 {
+    margin-top: 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+H3 {
+    display: inline-block;
+    text-align: center;
+    width: 50vw;
+}
+
+.wrapper {
+    display: flex;
+}
